@@ -11,6 +11,7 @@ body {
   background: #222;
   color: #fff;
   font-family: 'Fira Code', monospace;
+  font-size: 36px;
 
 }
 
@@ -25,6 +26,7 @@ div {
 
 p {
   font-size: 36px;
+  margin-bottom: 30px;
 }
 .maincontainer {
 
@@ -91,4 +93,16 @@ p {
 }
 .slide1 {
 background-image: linear-gradient(to bottom, #434343 0%, black 100%);
+}
+
+
+
+
+
+.listed li {
+  list-style-type: none;
+}
+
+li a {
+  color: pink;
 }
